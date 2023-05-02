@@ -77,7 +77,7 @@ Commands:
 
 ```sh
   cd hello microverse
-  git clone git@github.com:Eccb7/My-Portfolio.git
+  git clone git@github.com:Eccb7/survey-Trials.git
 ```
 
 ### Install
